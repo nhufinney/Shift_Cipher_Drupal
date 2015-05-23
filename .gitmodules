@@ -4,3 +4,6 @@
 [submodule "sites/all.modules/shift_cipher"]
 	path = sites/all.modules/shift_cipher
 	url = https://github.com/nhufinney/Nhu_Shift_Cipher_Drupal_Assessment.git
+[submodule "sites/all/modules/shift_cipher"]
+	path = sites/all/modules/shift_cipher
+	url = https://github.com/nhufinney/Shift_Cipher_Module_Drupal.git
